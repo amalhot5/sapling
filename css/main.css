@@ -335,7 +335,7 @@ ul li {
 	$intro
 ========================================================================== */
 .intro {
-	background-color: #00aeda;
+	background-color: #0AC696;
 }
 .intro h3 {
 	color: #fff;
@@ -360,7 +360,7 @@ ul li {
 	margin-top: 30px;
 }
 .services .icon {
-	color: #00aeda;
+	color: #0AC696;
 	font-size: 50px;
 	padding-left: 15px;
 }
@@ -464,7 +464,7 @@ ul li {
 	font-weight: 400;
 }
 .person h5 {
-	color: #00aeda;
+	color: #0AC696;
 	font-size: 13px;
 	font-weight: 400;
 	margin-bottom: 20px;
@@ -499,7 +499,7 @@ ul li {
 	 Testimonials
 -------------------------------------------------------------------------------*/
 .testimonials {
-	background-color: #00aeda;
+	background-color: #0AC696;
 	position: relative;
 	text-align: center;
 }
